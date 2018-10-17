@@ -1,0 +1,10 @@
+Is 1800 
+An 1600 
+Awesome 1400 
+Person 1200 
+! 1000 
+Have 800 
+A 600 
+Nice 400 
+Day 200 
+PlayerX 100 
